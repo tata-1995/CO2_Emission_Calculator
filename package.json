@@ -1,0 +1,15 @@
+{
+  "name": "co2EmissionCalculator.js",
+  "version": "1.0.0",
+  "description": "A module that calculates the amount of C02 emitted based on the distance travelled and the type of vehicle used ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.0",
+    "yargs-parser": "^20.2.3"
+  }
+}
